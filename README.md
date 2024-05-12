@@ -10,6 +10,10 @@ The Weather Dashboard is a web application designed to provide users with up-to-
 - 5-Day Forecast: Provides a forecast for the next 5 days, including weather conditions and temperature.
 - Search History: Keeps track of previously searched cities for easy access.
 
+## Screenshot
+
+![Weather Dashboard Screenshot](./Assets/Screenshot%202024-05-12%20at%206.50.43 PM.png)
+
 ## Usage
 
 1. Search for a City: Enter the name of a city in the search input field and click the "Search" button.
