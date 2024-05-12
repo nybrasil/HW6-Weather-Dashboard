@@ -12,7 +12,7 @@ The Weather Dashboard is a web application designed to provide users with up-to-
 
 ## Screenshot
 
-![Weather Dashboard Screenshot](./Assets/Screenshot%202024-05-12%20at%206.50.43 PM.png)
+![alt](./Assets/Screenshot%202024-05-12%20at%206.50.43 PM.png)
 
 ## Usage
 
